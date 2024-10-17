@@ -1,9 +1,11 @@
 /* Have fun. This is your site. */
 
 body {
-  background: lightgray;
+  background: rgb(116, 199, 247);
 }
-
+h1{
+  text-align: center;
+}
 /* Main Container */
 main {
   width: 100%;
