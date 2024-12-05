@@ -14,6 +14,7 @@ My DIY Landing Page with these features.
 ## Sources
 * [Google Font](https://fonts.google.com/) 
 * [Real Favicon Generator](https://realfavicongenerator.net/)
+* [CSS Color Conversion](https://www.cssportal.com/css-color-converter/)
 
 
 ## Why Does This Exist? 
